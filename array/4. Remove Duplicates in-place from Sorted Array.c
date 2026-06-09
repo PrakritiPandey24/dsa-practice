@@ -1,5 +1,5 @@
 /*
-LC 
+LC 26
 Remove Duplicates in-place from Sorted Array
 */
 
